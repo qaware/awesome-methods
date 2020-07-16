@@ -1,4 +1,4 @@
-# Awesome Methods [![Awesome](https://awesome.re/badge-flat2.svg)]
+# Awesome Methods ![Awesome](https://awesome.re/badge-flat2.svg)
 
 A curated list of awesome software engineering and management methods
 
