@@ -12,7 +12,7 @@ A curated list of awesome software engineering and management methods
  * **[Retromat](https://retromat.org)**: Retromat generates random plans for agile retrospectives.
  * **[Service Design Tools](https://servicedesigntools.org)**: The open collection of tools and tutorials that helps dealing with complex design challenges.
  * **[Org Patterns](https://sites.google.com/a/scrumplop.org/published-patterns)**: A rich collection of organizational patterns.
- * **[UX Design Tools](https://uxpro.cc/toolbox)**
+ * **[UX Design Tools](https://uxpro.cc/toolbox)**: A broad collection of UX methods and tools
  
 ## Agile frameworks
 
